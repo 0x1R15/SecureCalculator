@@ -1,44 +1,31 @@
-SecureCalculator 📱🔐
-A beginner-friendly Android calculator application built using Java and Android Studio, designed with essential mobile application security best practices in mind.
+# SecureCalculator 📱🔐
 
-🚀 Features
-✔️ Basic arithmetic operations (Add, Subtract, Multiply, Divide)
+A beginner-level Android calculator application built using Java and Android Studio, focusing on basic mobile application security best practices.
 
-✔️ Input validation to prevent crashes
+## Features
+- Basic arithmetic operations
+- Input validation to prevent crashes
+- Division-by-zero handling
+- No unnecessary permissions
+- Secure coding principles
 
-✔️ Division-by-zero protection
+## Tech Stack
+- Java
+- Android Studio
+- XML
+- Gradle (Groovy DSL)
 
-✔️ Clean and minimal UI
+## Security Concepts
+- Input validation
+- Exception handling
+- Least privilege principle
 
-✔️ No unnecessary permissions
+## How to Run
+1. Clone the repository
+2. Open in Android Studio
+3. Sync Gradle
+4. Run on emulator or physical device
 
-✔️ Implements fundamental secure coding principles
-
-🛠️ Tech Stack
-Java
-Android Studio
-XML (UI Layouts)
-Gradle (Groovy DSL)
-
-🔐 Security Concepts Implemented
-Input Validation — prevents invalid or malicious inputs
-
-Exception Handling — avoids unexpected app crashes
-
-Least Privilege Principle — app uses zero sensitive permissions
-
-Safe UI/UX constraints — disables unneeded interactions
-
-▶️ How to Run the Project
-Clone the repository:
-
-git clone https://github.com/your-username/SecureCalculator.git
-
-Open the project in Android Studio
-
-Wait for Gradle Sync to finish
-
-Click Run ▶ to launch it on an emulator or a physical device
-
-👩🏻‍💻 Author
-Shreya Waghmare (1R15)
+## Author
+SHREYA WAGHMARE.
+(1r15)
